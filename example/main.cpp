@@ -1,4 +1,5 @@
 
+#include <cstring> // memset
 #include <iostream>
 #include <iconv.h> // display utf8
 
@@ -31,7 +32,7 @@ int main(int argc, char **argv)
 
     recognizer.recognize( &character, &words, 10, 0 );
 
-    for(size_t i=0; i<words.size(); i++) print_utf8(words[i]);
+    for (size_t i=0; i<words.size(); i++) print_utf8(words[i]);
 
     return 0;
 }
