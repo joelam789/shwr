@@ -6,7 +6,7 @@ SHWR (Simple Hand-Writing Recognizer) is a very simple but effective online hand
 
 ![test program with qt](https://a.fsdn.com/con/app/proj/shwr/screenshots/shwr_qt_sample_01.png)
 
-
+<br />
 2.How to use it?
 
 Here is an example (very like zinnia):
@@ -49,7 +49,7 @@ int main(int argc, char **argv)
 
 ```
 
-
+<br />
 3.License
 
 Free and open-source, BSD License.
