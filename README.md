@@ -2,7 +2,7 @@
 
 1.What is SHWR?
 
-SHWR (Simple Hand-Writing Recognizer) is a very simple but effective online hand recognition system based on DTW (Dynamic Time Warping) algorithm. It is written in pure C++ with no third party dependencies (except STL).
+SHWR (Simple Hand-Writing Recognizer) is a very simple but effective online handwriting recognition system based on DTW (Dynamic Time Warping) algorithm. It is written in pure C++ with no third party dependencies (except STL).
 
 ![test program with qt](https://a.fsdn.com/con/app/proj/shwr/screenshots/shwr_qt_sample_01.png)
 
